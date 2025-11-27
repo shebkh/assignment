@@ -1,0 +1,13 @@
+cat > .gitignore << EOF
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.lnk
+desktop.ini
+Activation/
+Pixi/
+*.epub
+*.bat
+EOF
